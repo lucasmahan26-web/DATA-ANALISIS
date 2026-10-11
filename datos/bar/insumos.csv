@@ -1,0 +1,74 @@
+id_insumo,nombre_insumo,categoria,unidad_base,contenido_por_envase,costo_actual
+1,Vodka estandar,Destilados,ml,700,9800
+2,Vodka premium,Destilados,ml,700,21500
+3,Gin London Dry,Destilados,ml,700,16400
+4,Gin premium,Destilados,ml,700,28900
+5,Ron blanco,Destilados,ml,700,11200
+6,Ron anejo,Destilados,ml,700,18700
+7,Whisky estandar,Destilados,ml,700,14300
+8,Whisky premium 12 anios,Destilados,ml,700,42600
+9,Bourbon,Destilados,ml,700,23800
+10,Tequila blanco,Destilados,ml,700,15900
+11,Tequila reposado,Destilados,ml,700,27400
+12,Mezcal artesanal,Destilados,ml,700,33500
+13,Cognac,Destilados,ml,700,38700
+14,Vermouth rojo,Destilados,ml,700,8900
+15,Vermouth blanco,Destilados,ml,700,9200
+16,Campari,Destilados,ml,700,15200
+17,Aperol,Destilados,ml,700,14800
+18,Amaretto,Destilados,ml,700,12600
+19,Triple sec,Destilados,ml,700,10400
+20,Licor de cafe,Destilados,ml,700,11900
+21,Licor de durazno,Destilados,ml,700,10800
+22,Fernet,Destilados,ml,750,13100
+23,Bitter italiano,Destilados,ml,700,9900
+24,Sake,Destilados,ml,720,17600
+25,Pisco,Destilados,ml,700,16800
+26,Cachaca,Destilados,ml,700,10700
+27,Malbec,Vinos,ml,750,7600
+28,Cabernet Sauvignon,Vinos,ml,750,8100
+29,Chardonnay,Vinos,ml,750,7200
+30,Sauvignon Blanc,Vinos,ml,750,7800
+31,Espumante brut,Vinos,ml,750,9400
+32,Rosado,Vinos,ml,750,6900
+33,Cerveza IPA botella,Cervezas,unidad,1,1450
+34,Cerveza Lager botella,Cervezas,unidad,1,1100
+35,Cerveza Negra botella,Cervezas,unidad,1,1520
+36,Cerveza Trigo botella,Cervezas,unidad,1,1390
+37,Cerveza Sin Alcohol botella,Cervezas,unidad,1,1180
+38,Barril Lager 30L,Barriles,ml,30000,78000
+39,Barril IPA 30L,Barriles,ml,30000,96000
+40,Agua tonica,Mixers,ml,1000,2100
+41,Ginger ale,Mixers,ml,1000,2300
+42,Jugo de limon,Mixers,ml,1000,1950
+43,Jugo de naranja,Mixers,ml,1000,2400
+44,Jugo de arandano,Mixers,ml,1000,3100
+45,Agua con gas,Mixers,ml,1000,1500
+46,Soda,Mixers,ml,1000,1300
+47,Gaseosa cola,Mixers,ml,1000,2200
+48,Jarabe simple,Jarabes,ml,750,2600
+49,Jarabe de goma,Jarabes,ml,750,2900
+50,Granadina,Jarabes,ml,750,3200
+51,Sirope de agave,Jarabes,ml,750,4100
+52,Jarabe de coco,Jarabes,ml,750,3600
+53,Angostura,Amargos,ml,200,8900
+54,Bitter de naranja,Amargos,ml,200,7600
+55,Bitter de chocolate,Amargos,ml,200,8200
+56,Limon,Frescos,unidad,1,320
+57,Lima,Frescos,unidad,1,380
+58,Naranja,Frescos,unidad,1,290
+59,Menta fresca,Frescos,unidad,1,850
+60,Albahaca fresca,Frescos,unidad,1,900
+61,Jengibre,Frescos,unidad,1,1100
+62,Huevo,Frescos,unidad,1,210
+63,Azucar,Secos,unidad,1,1300
+64,Sal,Secos,unidad,1,700
+65,Cafe en grano,Secos,unidad,1,9800
+66,Canela,Secos,unidad,1,1900
+67,Bolsa de hielo 2kg,Hielo,unidad,1,2600
+68,Vaso highball,Descartables,unidad,1,180
+69,Vaso old fashioned,Descartables,unidad,1,210
+70,Servilleta,Descartables,unidad,1,45
+71,Sorbete,Descartables,unidad,1,60
+72,Agitador,Descartables,unidad,1,95
+73,Vaso de shot,Descartables,unidad,1,110

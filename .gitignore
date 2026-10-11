@@ -1,0 +1,46 @@
+# =============================================================================
+# Archivos que NO se publican en el portafolio público de GitHub
+# =============================================================================
+# Están en tu disco y los seguís usando: simplemente no se suben.
+# Ver la explicación completa en README.md -> "Qué se publica y qué no".
+# =============================================================================
+
+# --- 1. Material personal de carrera -----------------------------------------
+# El plan personal, el tracker y —sobre todo— la guía de conversación con tu
+# empleador actual. Eso no se publica mientras trabajás ahí.
+00_Roadmap_Analista_Datos.md
+01_Progreso.md
+EMPEZAR_AQUI.md
+PRIMER_DIA.md
+CHECKLIST_SEMANA_1.md
+CHECKLIST.html
+GIT_EN_5_MINUTOS.md
+03_busqueda_laboral/
+04_formacion/
+
+# --- 2. Claves de respuestas y soluciones (spoilers) -------------------------
+# Revelan los defectos inyectados en los datasets y las respuestas de los
+# ejercicios. Son tu autoevaluación, no material de portafolio.
+**/*_NO_ABRIR*
+**/*_clave*
+**/*_soluciones*
+
+# --- 2b. DATOS REALES DEL TRABAJO --------------------------------------------
+# El inventario real del bar: contiene costos de compra, proveedores y volumenes.
+# Es informacion comercialmente sensible del empleador. NO SE PUBLICA.
+# Los datasets de datos/bar/ son SINTETICOS y si se publican; este no.
+datos/bar_real/
+
+# --- 3. Bases generadas por los scripts --------------------------------------
+# Son reproducibles: cualquiera las regenera con los scripts de /scripts.
+*.db
+
+# --- 4. Python, editores y sistema -------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+~$*

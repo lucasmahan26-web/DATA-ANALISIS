@@ -1,0 +1,6 @@
+id_medio_pago,descripcion
+1,Efectivo
+2,Tarjeta de Crédito
+3,Tarjeta de Débito
+4,Transferencia
+5,QR / Billetera Virtual

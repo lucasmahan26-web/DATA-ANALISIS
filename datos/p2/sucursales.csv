@@ -1,0 +1,13 @@
+id_sucursal,nombre_sucursal,region,provincia,zona_comercial,fecha_apertura
+1,Central Rosario,Litoral,Santa Fe,Zona Este,2015-03-12
+2,Sucursal Norte,Norte,Salta,Zona Norte,2018-07-01
+3,Sucursal Sur,Sur,Chubut,Zona Sur,2019-11-20
+4,Mendoza Centro,Cuyo,Mendoza,Zona Oeste,2016-05-08
+5,Cordoba Nueva,Centro,Córdoba,Zona Centro,2014-09-30
+6,La Plata,Centro,Buenos Aires,Zona Este,2020-02-14
+7,Tucuman Shopping,Norte,Tucumán,Zona Norte,2017-08-22
+8,Bariloche,Sur,Río Negro,Zona Sur,2021-01-05
+9,Salta Capital,Norte,Salta,Zona Norte,2013-06-18
+10,Mar del Plata,Centro,Buenos Aires,Zona Este,2019-04-11
+11,Santa Fe Centro,Litoral,Santa Fe,Zona Este,2016-10-02
+12,Neuquen Este,Sur,Neuquén,Zona Sur,2022-03-07

@@ -1,0 +1,25 @@
+id_trago,nombre_trago,categoria,precio_venta
+Negroni,Negroni,Cocteles,7800
+Gin Tonic,Gin Tonic,Cocteles,7200
+Fernet con Cola,Fernet con Cola,Cocteles,6400
+Mojito,Mojito,Cocteles,7100
+Daiquiri,Daiquiri,Cocteles,7400
+Margarita,Margarita,Cocteles,7900
+Old Fashioned,Old Fashioned,Cocteles,9800
+Whisky Highball,Whisky Highball,Cocteles,8200
+Vodka Tonic,Vodka Tonic,Cocteles,6900
+Aperol Spritz,Aperol Spritz,Cocteles,7600
+Caipirinha,Caipirinha,Cocteles,7300
+Cosmopolitan,Cosmopolitan,Cocteles,7700
+Paloma,Paloma,Cocteles,7400
+Moscow Mule,Moscow Mule,Cocteles,7300
+Whisky Sour,Whisky Sour,Cocteles,8400
+Malbec copa,Malbec copa,Vinos,5400
+Chardonnay copa,Chardonnay copa,Vinos,5100
+Espumante copa,Espumante copa,Vinos,5200
+Cerveza IPA botella,Cerveza IPA botella,Cervezas,4200
+Cerveza Lager botella,Cerveza Lager botella,Cervezas,3400
+Pinta de barril Lager,Pinta de barril Lager,Barriles,3800
+Tequila shot,Tequila shot,Destilados,4500
+Whisky shot premium,Whisky shot premium,Destilados,8900
+Gin premium tonic,Gin premium tonic,Cocteles,9600

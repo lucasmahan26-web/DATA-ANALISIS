@@ -1,0 +1,62 @@
+id_trago,id_insumo,cantidad
+Negroni,3,30
+Negroni,16,30
+Negroni,14,30
+Gin Tonic,3,50
+Gin Tonic,40,150
+Gin Tonic,56,0.25
+Fernet con Cola,22,60
+Fernet con Cola,47,180
+Mojito,5,50
+Mojito,48,20
+Mojito,57,0.5
+Mojito,59,0.2
+Mojito,46,100
+Daiquiri,5,60
+Daiquiri,48,25
+Daiquiri,57,0.5
+Margarita,10,50
+Margarita,19,25
+Margarita,57,0.5
+Old Fashioned,9,60
+Old Fashioned,49,10
+Old Fashioned,53,1.5
+Old Fashioned,58,0.2
+Whisky Highball,7,50
+Whisky Highball,46,140
+Whisky Highball,56,0.2
+Vodka Tonic,1,50
+Vodka Tonic,40,150
+Vodka Tonic,57,0.25
+Aperol Spritz,17,60
+Aperol Spritz,31,90
+Aperol Spritz,46,30
+Caipirinha,26,60
+Caipirinha,57,0.5
+Caipirinha,63,0.05
+Cosmopolitan,2,45
+Cosmopolitan,19,20
+Cosmopolitan,44,40
+Cosmopolitan,57,0.3
+Paloma,11,50
+Paloma,47,30
+Paloma,42,40
+Paloma,64,0.02
+Moscow Mule,1,50
+Moscow Mule,41,150
+Moscow Mule,57,0.3
+Whisky Sour,7,60
+Whisky Sour,42,30
+Whisky Sour,48,20
+Whisky Sour,62,0.5
+Malbec copa,27,150
+Chardonnay copa,29,150
+Espumante copa,31,120
+Cerveza IPA botella,33,1
+Cerveza Lager botella,34,1
+Pinta de barril Lager,38,500
+Tequila shot,10,45
+Whisky shot premium,8,45
+Gin premium tonic,4,50
+Gin premium tonic,40,150
+Gin premium tonic,57,0.25

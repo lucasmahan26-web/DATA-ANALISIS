@@ -1,0 +1,58 @@
+id_producto,nombre_producto,id_categoria,precio_lista,activo,fecha_alta
+1,Arroz Largo Fino 1kg,1,1067.04,S,2020-12-09
+2,Fideos Spaghetti 500g,1,1072.25,S,2016-03-05
+3,Aceite Girasol 1.5L,1,1202.81,S,2019-11-06
+4,Azúcar Refinada 1kg,910,1245.53,S,2019-04-20
+5,Harina 000 1kg,1,1094.45,S,2015-10-12
+6,Yerba Mate 1kg,1,1240.95,S,2015-04-02
+7,Lentejas 500g,1,1242.81,S,2019-10-17
+8,Puré de Tomate 520g,1,1348.78,N,2020-02-20
+9,Gaseosa Cola 2.25L,2,1927.8,S,2018-05-26
+10,Agua Mineral 500ml,2,1823.49,S,2018-09-21
+11,Cerveza Rubia 1L,2,1557.48,S,2019-08-12
+12,Jugo de Naranja 1L,2,1728.75,S,2020-11-26
+13,Vino Tinto Reserva,2,1938.19,S,2020-03-30
+14,Fernet 750ml,2,1588.37,S,2019-08-14
+15,Gaseosa Limón 2.25L,2,1748.63,S,2018-11-15
+16,Agua Saborizada 1.5L,902,1725.89,S,2017-03-25
+17,Leche Entera 1L,3,2197.73,S,2017-12-18
+18,Yogur Bebible 200g,3,2405.08,S,2015-12-10
+19,Queso Cremoso kg,3,2294.73,S,2015-05-03
+20,Manteca 200g,3,2093.63,N,2017-11-06
+21,Crema de Leche 200ml,3,2055.35,S,2020-03-02
+22,Dulce de Leche 400g,3,2118.03,S,2021-02-20
+23,Queso Rallado 150g,3,1826.58,S,2018-05-02
+24,Leche Descremada 1L,3,2342.78,S,2019-10-01
+25,Detergente 750ml,4,1605.37,S,2017-06-28
+26,Lavandina 1L,908,1340.87,S,2015-04-08
+27,Jabón en Polvo 3x,4,1362.65,S,2019-10-06
+28,Rollo de Cocina 3u,4,1579.18,S,2020-08-26
+29,Limpiador Pisos 900ml,4,1470.24,S,2018-06-11
+30,Suavizante 900ml,4,1372.17,S,2018-11-10
+31,Esponja Multiuso 3u,4,1271.83,S,2019-01-30
+32,Bolsas Residuo 30u,4,1410.99,S,2016-03-22
+33,Asado de Tira kg,910,6531.79,S,2015-03-16
+34,Milanesa de Nalga kg,5,6050.84,S,2021-04-06
+35,Pollo Entero kg,5,6126.48,S,2020-05-18
+36,Bondiola de Cerdo kg,5,6432.49,S,2020-02-23
+37,Carne Picada kg,910,5762.87,S,2015-03-25
+38,Chorizo Parrillero kg,5,5565.41,S,2016-08-30
+39,Pan Francés kg,6,2122.55,S,2019-06-26
+40,Facturas 6u,6,1806.53,S,2016-01-10
+41,Budín Marmolado,6,1632.85,S,2015-03-18
+42,Galletitas Surtidas 300g,6,1980.48,S,2015-01-21
+43,Pan Lactal 500g,6,1708.82,S,2015-07-11
+44,Alfajor Triple 3u,6,2162.9,S,2017-12-25
+45,Manzana Red Delicious kg,7,1603.89,S,2015-08-31
+46,Banana Ecuador kg,7,1658.28,S,2020-11-15
+47,Papa Negra kg,7,1562.98,S,2017-03-21
+48,Tomate Perita kg,7,1422.46,S,2018-03-17
+49,Cebolla kg,7,1429.99,S,2021-07-31
+50,Zanahoria kg,7,1284.0,N,2017-09-28
+51,Naranja kg,7,1658.9,S,2019-11-30
+52,Hamburguesas 4u,8,3174.92,S,2015-11-28
+53,Arvejas 500g,8,3222.63,S,2020-09-14
+54,Helado 1L,8,3467.51,S,2017-01-01
+55,Papas Fritas 1kg,8,2790.54,N,2015-01-05
+56,Empanadas 6u,8,2773.68,S,2015-09-15
+57,Pizza Congelada,8,2671.55,S,2021-06-29
